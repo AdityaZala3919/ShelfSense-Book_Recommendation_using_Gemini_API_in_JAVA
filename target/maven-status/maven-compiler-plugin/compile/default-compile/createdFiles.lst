@@ -1,0 +1,7 @@
+com\ajava\shelfsense\User.class
+com\ajava\shelfsense\HistoryServlet.class
+com\ajava\shelfsense\LoginServlet.class
+com\ajava\shelfsense\HibernateUtil.class
+com\ajava\shelfsense\UserInput.class
+com\ajava\shelfsense\RegisterServlet.class
+com\ajava\shelfsense\BookRecServlet.class
