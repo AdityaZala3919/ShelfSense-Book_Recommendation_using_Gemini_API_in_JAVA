@@ -18,8 +18,8 @@ import java.io.IOException;
 //@WebServlet("/recommend")
 public class BookRecServlet extends HttpServlet {
 
-    private static final String API_KEY = "AIzaSyAobQ1HNn_zh7r3V1Qx2v_Ky4xmw685Mxw";
-    private static final String API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=" + API_KEY;
+    private static final String API_KEY = "YOUR_GEMINI_API_KEY";
+    private static final String API_URL = "YOUR_GEMINI_API_URL" + API_KEY;
 
     private static final OkHttpClient client = new OkHttpClient();
 
